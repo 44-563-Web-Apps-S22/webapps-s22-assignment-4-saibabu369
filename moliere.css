@@ -35,6 +35,11 @@ moliere.css
     font-style: italic;
     color: yellowgreen;
 }
+.Damis{
+    font-style: italic;
+    color: orchid;
+}
+}
 table { 
     border: dashed 3px;
     overflow: auto;
