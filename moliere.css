@@ -69,3 +69,9 @@ tr {
 tr:nth-child(even) {
     background-color: #c4b1b1;
 }
+
+:hover {
+    text-shadow:3px 3px 6px green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 10px 5px 5px tomato;
+}
